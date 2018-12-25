@@ -1,3 +1,5 @@
 <?php
-	echo"test"
+	echo"test";
+	echo strlen("Hello world!");
+	echo "changes inserted";
 ?>
